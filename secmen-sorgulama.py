@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Feb 23 21:24:06 2020
 
 @author: kaant
 """
